@@ -18,7 +18,3 @@ for csv_file in os.scandir(directory):
 
 
 
-#column = df.loc[:,'Author Updates']
-#not_nan = pd.notna(column)
-#count = not_nan.values
-#print(sum(count))
